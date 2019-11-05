@@ -1,3 +1,3 @@
 # helloworld
 Hi everyone!
-I make some changes.
+I made some changes.
